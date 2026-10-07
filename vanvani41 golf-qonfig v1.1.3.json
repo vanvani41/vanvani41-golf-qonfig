@@ -1,0 +1,183 @@
+{
+  "defaultConfigVersion": "1.1.3-golf",
+  "isDefaultConfig": false,
+  "useItalic": false,
+  "judgments": [
+      {
+        "threshold": 15,
+        "text": "<size=125%>0</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 14,
+        "text": "<size=125%>1</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 13,
+        "text": "<size=125%>2</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 12,
+        "text": "<size=125%>3</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 11,
+        "text": "<size=125%>4</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 10,
+        "text": "<size=125%>5</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 9,
+        "text": "<size=125%>6</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 8,
+        "text": "<size=125%>7</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+    {
+        "threshold": 7,
+        "text": "<size=125%>8</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 6,
+        "text": "<size=125%>9</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 5,
+        "text": "<size=125%>10</size>",
+        "color": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 4,
+        "text": "<size=125%>11</size>",
+        "color": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 3,
+        "text": "<size=125%>12</size>",
+        "color": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 2,
+        "text": "<size=125%>13</size>",
+        "color": [
+          0.5137,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 1,
+        "text": "<size=125%>14</size>",
+        "color": [
+            1.0,
+            0.0,
+            1.0,
+            1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 115,
+        "text": "<size=200%>15\n\n</size><size=125%>++++++++</size>",
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "fade": true
+      }
+    ]
+}
