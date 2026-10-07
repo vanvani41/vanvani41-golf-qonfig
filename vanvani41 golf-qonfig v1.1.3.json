@@ -4,6 +4,28 @@
   "useItalic": false,
   "judgments": [
       {
+        "threshold": 115,
+        "text": "",
+        "color": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 16,
+        "text": "",
+        "color": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fade": false
+      },
+      {
         "threshold": 15,
         "text": "<size=125%>0</size>",
         "color": [
@@ -169,7 +191,7 @@
         "fade": false
       },
       {
-        "threshold": 115,
+        "threshold": 0,
         "text": "<size=200%>15\n\n</size><size=125%>++++++++</size>",
         "color": [
           1.0,
